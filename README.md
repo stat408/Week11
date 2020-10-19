@@ -9,3 +9,4 @@ The goals for Week 10 are:
 
 - Install SAS OnDemand
 - Quick overview of SAS
+- Install Adobe Premiere Rush
